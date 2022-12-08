@@ -11,3 +11,22 @@
 ul {
   list-style: none;
 }
+
+.userName{
+  border : solid thin black;
+  border-radius: 45px;
+  padding : 10px;
+  text-align: center;
+  background-color: lightgray;
+  padding : 10px;
+}
+
+.sizeImg{
+  height: 100px;
+  width: 100px;
+  border-radius: 30px;
+}
+
+
+
+
